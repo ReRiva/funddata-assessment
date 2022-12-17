@@ -35,31 +35,30 @@ pip install matplotlib
 
 ## What to expect
 
-*01-information-exercises.ipynb*:
+**01-information-exercises.ipynb**:
 -   Creation of Random strings using as base parts of Alice in the Wonderland book and analysing the weight of each letter in that strings and using it trying to make the random text looks more similar to the English language.
 -   Explanation of why Log of 0 is undefined.
 
-*02-radomness-exercises.ipynb:*
+**02-radomness-exercises.ipynb:**
  - Exercises using Python’s Numpy Random package, simulating coin tosses and plotting distributions of random values. 
 
-*03-bias-exercises.ipynb*
+**03-bias-exercises.ipynb**
 -   Three real world examples of real-life cognitive bias.
 -   Explanation of why difference between the standard deviation calculations is greatest for small sample sizes.
 
-*xxxxxxxxxxxxxx*
--   xxxxxxxxxxxxxxxx
--   xxxxxxxxxxxxx
+**04-outliers-exercises.ipynb**
+-   Creating Box plots using the data from from the Iris dataset
+-   Creating Box plots using the data from from the Morley dataset
+-   xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-*xxxxxxxxxxxxxx*
--   xxxxxxxxxxxxxx
--   xxxxxxxxxxxxxxxx
+**05-cleasing-exercises.ipynb**
+-   Regex expressions and Python's Re module
 
 ## References
 
-https://math.fandom.com/wiki/Z_table_(mean)
-https://soc.utah.edu/sociology3112/normal-distribution.php#:~:text=The%20normal%20distribution%20is%20a%20symmetrical%2C%20bell%2Dshaped%20distribution%20in,a%20standard%20deviation%20of%20one.
-https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.norm.html
-https://www.scribbr.com/statistics/central-limit-theorem/#:~:text=The%20central%20limit%20theorem%20says,the%20mean%20will%20be%20normal.
-https://soc.utah.edu/sociology3112/normal-distribution.php#:~:text=The%20normal%20distribution%20is%20a%20symmetrical%2C%20bell%2Dshaped%20distribution%20in,a%20standard%20deviation%20of%20one.
-https://www.investopedia.com/terms/z/zscore.asp#:~:text=What%20Is%20a%20Z%2DScore,identical%20to%20the%20mean%20score.
-
+- https://math.fandom.com/wiki/Z_table_(mean)
+- https://soc.utah.edu/sociology3112/normal-distribution.php#:~:text=The%20normal%20distribution%20is%20a%20symmetrical%2C%20bell%2Dshaped%20distribution%20in,a%20standard%20deviation%20of%20one.
+- https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.norm.html
+- https://www.scribbr.com/statistics/central-limit-theorem/#:~:text=The%20central%20limit%20theorem%20says,the%20mean%20will%20be%20normal
+- https://soc.utah.edu/sociology3112/normal-distribution.php#:~:text=The%20normal%20distribution%20is%20a%20symmetrical%2C%20bell%2Dshaped%20distribution%20in,a%20standard%20deviation%20of%20one
+- https://www.investopedia.com/terms/z/zscore.asp#:~:text=What%20Is%20a%20Z%2DScore,identical%20to%20the%20mean%20score
