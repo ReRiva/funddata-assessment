@@ -8,8 +8,8 @@ Weekly Assessments-Exercises:
 - 01-information-exercises.ipynb - Exercises from the Information Notebook
 - 02-radomess-exercises.ipynb - Exercises from the Randomness Notebook
 - 03-bias-exercises.ipynb  - Exercises from the Bias Notebook
-- XXXXXXXXXXXXXXXXX - Exercises from the Outliers Notebook
-- XXXXXXXXXXXXXXXXX - Exercises from the Cleansing Notebook
+- 04-outliers-exercises.ipynb - Exercises from the Outliers Notebook
+- 05-cleasing-exercises.ipynb - Exercises from the Cleansing Notebook
 
 ## Setup/Installation Requirements
 
