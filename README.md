@@ -49,16 +49,26 @@ pip install matplotlib
 **04-outliers-exercises.ipynb**
 -   Creating Box plots using the data from from the Iris dataset
 -   Creating Box plots using the data from from the Morley dataset
--   xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+-   Simpson's paradox
 
 **05-cleasing-exercises.ipynb**
 -   Regex expressions and Python's Re module
 
+**Normal Distribution Project**
+- Explanation of what a Normal Distribution is.
+- Parameters of the normal distribution
+- Mean and Standard deviation
+- PDF and CDF
+- Empirical Rule
+- Z scores
+- Central Limit Theorem 
+
+
 ## References
 
-- https://math.fandom.com/wiki/Z_table_(mean)
-- https://soc.utah.edu/sociology3112/normal-distribution.php#:~:text=The%20normal%20distribution%20is%20a%20symmetrical%2C%20bell%2Dshaped%20distribution%20in,a%20standard%20deviation%20of%20one.
-- https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.norm.html
-- https://www.scribbr.com/statistics/central-limit-theorem/#:~:text=The%20central%20limit%20theorem%20says,the%20mean%20will%20be%20normal
-- https://soc.utah.edu/sociology3112/normal-distribution.php#:~:text=The%20normal%20distribution%20is%20a%20symmetrical%2C%20bell%2Dshaped%20distribution%20in,a%20standard%20deviation%20of%20one
-- https://www.investopedia.com/terms/z/zscore.asp#:~:text=What%20Is%20a%20Z%2DScore,identical%20to%20the%20mean%20score
+- [Math Wiki - Z Table](https://math.fandom.com/wiki/Z_table_(mean))
+- [University of Utha - Normald Distribution and Z Scores](https://soc.utah.edu/sociology3112/normal-distribution.php#:~:text=The%20normal%20distribution%20is%20a%20symmetrical%2C%20bell%2Dshaped%20distribution%20in,a%20standard%20deviation%20of%20one.)
+- [Scipy Documentation - Normal Distribuition](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.norm.html)
+- [Scribbr - Central Limit Theorem](https://www.scribbr.com/statistics/central-limit-theorem/#:~:text=The%20central%20limit%20theorem%20says,the%20mean%20will%20be%20normal)
+- [Investopedia - Z Scores](https://www.investopedia.com/terms/z/zscore.asp#:~:text=What%20Is%20a%20Z%2DScore,identical%20to%20the%20mean%20score)
+- [Investopedia - Normal Distribuition Overview](https://www.investopedia.com/terms/n/normaldistribution.asp)
